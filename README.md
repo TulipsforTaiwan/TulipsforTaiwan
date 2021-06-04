@@ -1,6 +1,6 @@
-- 👋 This is the page where I host data projects associated with the blog: https://tulipsfortaiwan.blogspot.com/ 
-- All input, corrections and ideas for colaboration are welcome
-- 📫 I can be reached at: tulipsfortaiwan@gmail.com
+- Once upon a time I had a very bad idea: open two github accounts.
+- I've seen the errors in my ways and moved all the code to my personal account: Russell-Shean
+- https://github.com/Russell-Shean
 
 <!---
 TulipsforTaiwan/TulipsforTaiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
